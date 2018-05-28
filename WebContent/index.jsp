@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+解决冲突：
 	上传第二个Git_demo
 	eclipse update！
+	Git update...
 </body>
 </html>
